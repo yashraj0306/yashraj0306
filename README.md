@@ -28,3 +28,11 @@ Let's build something amazing together! 🚀
 B.Tech — Computer Science & Engineering (Data Science)
 SRM Institute of Science and Technology, Kattankulathur
 2023 – 2027
+
+📫 Get in Touch
+
+Feel free to reach out if you want to collaborate, discuss ideas, or just say hi!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-raj-3ba0082b0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashraj.4228@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yashraj0306)
