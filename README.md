@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Yash Raj
 
 ✨ A Passionate Data Science student who loves building projects and solving real-world problems.
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Exploring-brightgreen?style=flat)
 ![DSA](https://img.shields.io/badge/DSA-C++-blue?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Exploring-orange?style=flat)
